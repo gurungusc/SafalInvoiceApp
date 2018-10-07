@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InvoiceAssignment</string>
+    <string name="date_picker_title" />
+    <string name="type_picker_title" />
+    <string name="invoice_image" />
+    <string name="invoice_title_label" />
+    <string name="invoice_title_hint" />
+    <string name="invoice_type" />
+    <string name="invoice_shop_name" />
+    <string name="invoice_shop_name_hint" />
+    <string name="invoice_comment" />
+    <string name="invoice_comment_hint" />
+    <string name="invoice_location" />
+    <string name="invoice_solved_label" />
+    <string name="cancel" />
+    <string name="save" />
+    <string name="delete_invoice" />
+    <string name="invoice_map" />
+</resources>
